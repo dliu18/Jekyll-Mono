@@ -30,13 +30,15 @@ One of my first projects, I built Air Battle, a first person shooter game, over 
 ## Daily Princetonian Writing 
 Writing for and leading the sports section of the Daily Princetonian has been one of my least anticipated yet memorable extracurriculars through college. What started as a simple means of extending a personal hobby has expanded into my most significant leadership opportunity. Directing and managing a staff of nearly a dozen writers, I ensure the daily publication of all things related to Princeton athletics. A short sample of my favorite articles follows. The complete list can be found on the Daily Princetonian [website](http://dailyprincetonian.com/author/dml3/)
 
-* [http://dailyprincetonian.com/sports/2016/05/qa-with-tom-bevan-91-of-princeton-football-founder-of-realclearpolitics/](Interview with Tom Bevan '91 Founder of Real Clear Politics)
+*[http://dailyprincetonian.com/sports/2016/05/qa-with-tom-bevan-91-of-princeton-football-founder-of-realclearpolitics/](Interview with Tom Bevan '91 Founder of Real Clear Politics)
 
-* [http://dailyprincetonian.com/sports/2015/04/within-ivy-league-princeton-among-lowest-in-salary-gap-between-coaches-of-mens-and-womens-teams/](Investigative piece on salary differences between coaches of men's and women's teams)
+*[http://dailyprincetonian.com/sports/2015/04/within-ivy-league-princeton-among-lowest-in-salary-gap-between-coaches-of-mens-and-womens-teams/](Investigative piece on salary differences between coaches of men's and women's teams)
 
 *[http://dailyprincetonian.com/sports/2016/02/baseballs-veteran-leadership-hopes-to-bounce-back-with-resilience-and-cohesion/](Preview of the 2016 Princeton baseball season)
 
 *[http://dailyprincetonian.com/sports/2015/09/football-brings-experience-and-strives-for-consistency-amid-uncertainty/](Preview of the 2015 Princeton football season)
 
 *[http://dailyprincetonian.com/sports/2015/02/mcmann-tigers-hungrier-than-ever-after-last-years-postseason-run/](Preview of the 2015 Princeton women's lacrosse season)
+
+
 ***
