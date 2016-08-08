@@ -7,7 +7,8 @@ permalink: /projects/
 ## Technical Side Projects 
 
 ### HookCup
-<img src="images/hookcup.jpg"></img>
+<img src="../images/hookcup.jpg">
+
 Winner of second place at a summer-long HookLogic company-wide hackathon, HookCup increases office cohesion by connecting groups of colleagues who might not have met each other. In a large, busy work environment, the slack bot gathers people from a wide variety of backgrounds (sales, marketing, software) and sends them on sponsored coffee breaks. The break gives colleagues a simple, convenient opportunity to meet individuals with a different perspective of the company. 
 
 During a two week pilot of the program at HookLogic, the slack bot sponsored over 100 coffee runs. Two thirds of the 80-person office registered for the program. Moreoever, The pilot's participants spanned every department in the office, achieving the ultimate goal of connecting diverse colleagues.  
