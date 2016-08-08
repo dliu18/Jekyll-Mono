@@ -7,7 +7,8 @@ permalink: /projects/
 ## Technical Side Projects 
 
 ### HookCup
-A summer-long hackathon project created at HookLogic, HookCup increases office cohesion by connecting groups of colleagues who might not have met each other. In a large, busy work environment, the slack bot gathers people from a wide variety of backgrounds (sales, marketing, software) and sends them on sponsored coffee breaks. The break gives colleagues a simple, convenient opportunity to meet individuals with a different perspective of the company. 
+<img src="images/hookcup.jpg"></img>
+Winner of second place at a summer-long HookLogic company-wide hackathon, HookCup increases office cohesion by connecting groups of colleagues who might not have met each other. In a large, busy work environment, the slack bot gathers people from a wide variety of backgrounds (sales, marketing, software) and sends them on sponsored coffee breaks. The break gives colleagues a simple, convenient opportunity to meet individuals with a different perspective of the company. 
 
 During a two week pilot of the program at HookLogic, the slack bot sponsored over 100 coffee runs. Two thirds of the 80-person office registered for the program. Moreoever, The pilot's participants spanned every department in the office, achieving the ultimate goal of connecting diverse colleagues.  
 
@@ -39,6 +40,8 @@ Writing for and leading the sports section of the Daily Princetonian has been on
 * [Preview of the 2015 Princeton football season](http://dailyprincetonian.com/sports/2015/09/football-brings-experience-and-strives-for-consistency-amid-uncertainty/)
 
 * [Preview of the 2015 Princeton women's lacrosse season](http://dailyprincetonian.com/sports/2015/02/mcmann-tigers-hungrier-than-ever-after-last-years-postseason-run/)
+
+### Sample Daily Princetonian Sports Section 
 
 <div data-configid="0/37733750" style="width:650px; height:658px;" class="issuuembed"></div>
 <script type="text/javascript" src="http://e.issuu.com/embed.js" async="true"></script>
