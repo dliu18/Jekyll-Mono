@@ -26,7 +26,8 @@ When I am not in front of a computer, I can be found watching basketball, enjoyi
 
 ## Favorite Quotes 
 
-* "Be the change that you wish to see in the world" - Mahatma Gandhi 
+* *"Be the change that you wish to see in the world"* - Mahatma Gandhi 
+* *"What is important is seldom urgent and what is urgent is seldom important"* - Dwight D. Eisenhower 
 
 
 
