@@ -16,7 +16,7 @@ During a two week pilot of the program at HookLogic, over two thirds of the 80-p
 
 From a technical perspective, HookCup includes [a front end site for registration](http://hooklogic.website). The slackbot itself integrates with outlook to offer user-specific times. An example conversation with the bot can be seen here: 
 
-<img src="../images/hookcup_example.png"> 
+<img src="../images/hookcup_example.PNG"> 
 
 ### Book Up
 
