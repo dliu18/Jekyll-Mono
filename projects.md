@@ -7,11 +7,16 @@ permalink: /projects/
 ## Technical Side Projects 
 
 ### HookCup
-<img src="../images/hookcup.jpg">
 
-Winner of second place at a summer-long HookLogic company-wide hackathon, HookCup increases office cohesion by connecting groups of colleagues who might not have met each other. In a large, busy work environment, the slack bot gathers people from a wide variety of backgrounds (sales, marketing, software) and sends them on sponsored coffee breaks. The break gives colleagues a simple, convenient opportunity to meet individuals with a different perspective of the company. 
+HookCup is an automated slack bot that organizes convenient coffee breaks among colleagues who might not have met each other in a large, busy work environment. The break gives colleagues a simple, convenient opportunity to meet individuals with a different perspective of the company. 
 
-During a two week pilot of the program at HookLogic, the slack bot sponsored over 100 coffee runs. Two thirds of the 80-person office registered for the program. Moreoever, The pilot's participants spanned every department in the office, achieving the ultimate goal of connecting diverse colleagues.  
+During a two week pilot of the program at HookLogic, over two thirds of the 80-person office registered for the program. Moreoever, The pilot's participants spanned every department in the office, achieving the ultimate goal of connecting diverse colleagues.  
+
+<img src="../images/hookcup.jpg" style="width:60%">
+
+From a technical perspective, HookCup includes [a front end site for registration](http://hooklogic.website). The slackbot itself integrates with outlook to offer user-specific times. An example conversation with the bot can be seen here: 
+
+<img src="../images/hookcup_example.png"> 
 
 ### Book Up
 
@@ -19,7 +24,9 @@ Book Up monitors the Textbook Exchange group at Princeton and sends the student 
 
 The application has been made available to over 3,300 undergraduates in the Princeton community and completed two semesters of successful operation. 
 
-*Source code for Book Up is available on [GitHub](https://github.com/dliu18/BookUp)*
+<img src="../images/bookup_graph.png"> 
+
+*Visit the project site [here](http://princetonbookup.co). Source code for Book Up is available on [GitHub](https://github.com/dliu18/BookUp)*
 
 ### Air Battle 
 
